@@ -50,3 +50,8 @@ Using data augmentation techniques to increase generalization
 Deploying the model using Streamlit or Flask for web or desktop interfaces
 Exporting to ONNX for mobile or embedded AI applications
 In summary, this project showcases a complete deep learning pipeline for image classification using PyTorch, along with visual performance metrics and real-world applicability in the fashion and retail tech industries.
+
+OUTPUT:-
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/a480c05f-bf4d-42f2-abac-1583906ae939" />
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/a97e2fec-dcdf-4a87-9822-f330c533272f" />
